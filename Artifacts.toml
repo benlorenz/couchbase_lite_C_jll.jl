@@ -1,0 +1,10 @@
+[[couchbase_lite_C]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7e0409dc7bdd8d199d9f7ad35a8be78ee13c7abf"
+libc = "glibc"
+os = "linux"
+
+    [[couchbase_lite_C.download]]
+    sha256 = "1bd913a9c6df5b7d423da486617a41e8946c09350a3529ccc95a5742cae52e7f"
+    url = "https://github.com/benlorenz/couchbase_lite_C_jll.jl/releases/download/couchbase_lite_C-v3.0.6+0/couchbase_lite_C.v3.0.6.x86_64-linux-gnu-cxx11.tar.gz"
